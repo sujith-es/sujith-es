@@ -1,4 +1,4 @@
-# Hi everyone :wave:
+# Hi there :wave:
 
 I'm Sujith Surendran and working as cloud engineer. I mainly code in C# and Python, but I am always learning new techonologies and tools. I am currently working on tranisition my role to solution architect and exploring various AWS services.
 
