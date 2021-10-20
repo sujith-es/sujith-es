@@ -31,7 +31,7 @@ I work as Junior Solution Architect and passionate about solving business proble
 ### Technologies and Languages
 
 - Languages:  Expert in C#, proficient in Python and JavaScript
-- Databases:  Aurora, MySQL, MS SQL, Redis
+- Databases:  Aurora, MySQL, MS SQL
 - Tools:           Hands on experience in multiple AWS services, Azure, Docker, Git, DataDog
 - Others:         Experience in Hybrid Cloud Solutions, maintaining Cloud infrastructures using Terraform
                              and Terragrunt, unit test
