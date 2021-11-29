@@ -1,12 +1,12 @@
 # Hi there :wave:
 
-I'm Sujith Surendran and working as cloud engineer. I mainly code in C# and Python, but I am always learning new techonologies and tools. I am currently working on tranisition my role to solution architect and exploring various AWS services.
+I'm Sujith Surendran and working as Solutions Architect. I mainly code in C# and Python, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloude and various AWS services.
 
 I have expereince in 
 
 - Application and web development
 - Big data platform
-- Cloud computing with AWS and Azure
+- Cloud computing with AWS and Azure and GCP.
 
 You can contact me at es.sujit(@)outlook.com
 
@@ -48,9 +48,8 @@ I work as Junior Solution Architect and passionate about solving business proble
 
 ## What I'm currently learning 📚
 
-- In depth Docker, Kubernetes
-- Building Enterprise Microservice with Design patterns
-- Preparing for AWS Solution Architect - Professional Certification
+- In Kubernetes
+- ClickHouse (Datawarehouse Database)
 
 ### Education
 
