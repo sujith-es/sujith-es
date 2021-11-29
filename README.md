@@ -24,7 +24,7 @@ You can contact me at es.sujit(@)outlook.com
 
 ### What I do
 
-I work as Junior Solution Architect and passionate about solving business problems, exploring services (in particular AWS). It is in my opinion the best combination of logical programming and beautiful design.
+I work as Solutions Architect and passionate about solving business problems, exploring services (in particular AWS). It is in my opinion the best combination of logical programming and beautiful design.
 
 ## My skills 📜
 
