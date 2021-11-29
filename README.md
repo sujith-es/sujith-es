@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm Sujith Surendran and working as Solutions Architect. I mainly code in C# and Python, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloude and various AWS services.
+I'm Sujith Surendran and working as Solutions Architect. I mainly code in C# and Python, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloud and various AWS services.
 
 I have expereince in 
 
