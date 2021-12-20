@@ -1,12 +1,13 @@
 # Hi there :wave:
 
-I'm Sujith Surendran and working as Solutions Architect. I mainly code in C# and Python, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloud and various AWS services.
+I'm Sujith Surendran and working as Solutions Architect @ [UST](https://www.ust.com/){:target="_blank" rel="noopener"}. I mainly code in C# and Java, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloud and various AWS services.
 
 I have expereince in 
 
 - Application and web development
 - Big data platform
 - Cloud computing with AWS and Azure and GCP.
+- Kubernetes
 
 You can contact me at es.sujit(@)outlook.com
 
@@ -30,8 +31,8 @@ I work as Solutions Architect and passionate about solving business problems, ex
 
 ### Technologies and Languages
 
-- Languages:  Expert in C#, proficient in Python and JavaScript
-- Databases:  Aurora, MySQL, MS SQL
+- Languages:  Expert in C#, proficient in Java, Python and JavaScript
+- Databases:  Aurora, MySQL, MS SQL, ClickHouse, Postgresql
 - Tools:           Hands on experience in multiple AWS services, Azure, Docker, Git, DataDog
 - Others:         Experience in Hybrid Cloud Solutions, maintaining Cloud infrastructures using Terraform
                              and Terragrunt, unit test
@@ -40,6 +41,7 @@ I work as Solutions Architect and passionate about solving business problems, ex
 
 - C#
 - Python
+- Java
 
 ### Productivity utilities
 
@@ -48,8 +50,8 @@ I work as Solutions Architect and passionate about solving business problems, ex
 
 ## What I'm currently learning 📚
 
-- In Kubernetes
 - ClickHouse (Datawarehouse Database)
+- CGP
 
 ### Education
 
