@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm Sujith Surendran and working as Solutions Architect @ [UST](https://www.ust.com/){:target="_blank" rel="noopener"}. I mainly code in C# and Java, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloud and various AWS services.
+I'm Sujith Surendran and working as Solutions Architect @ [UST](https://www.ust.com/). I mainly code in C# and Java, but I am always learning new techonologies and tools. I am currently exploring Hybrid cloud and various AWS services.
 
 I have expereince in 
 
