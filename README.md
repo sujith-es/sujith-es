@@ -9,7 +9,7 @@ I have expereince in
 - Cloud computing with AWS and Azure and GCP.
 - Kubernetes
 
-You can contact me at es.sujit(@)outlook.com
+You can contact me at es.sujit(@)gmail.com
 
 ## Quick overview
 
@@ -50,8 +50,9 @@ I work as Solutions Architect and passionate about solving business problems, ex
 
 ## What I'm currently learning 📚
 
-- ClickHouse (Datawarehouse Database)
+-Spring-boot
 - CGP
+- Airflow
 
 ### Education
 
