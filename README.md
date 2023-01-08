@@ -50,7 +50,7 @@ I work as Solutions Architect and passionate about solving business problems, ex
 
 ## What I'm currently learning 📚
 
-- Kubernetes operato
+- Kubernetes operator
 - CGP
 - Airflow
 
